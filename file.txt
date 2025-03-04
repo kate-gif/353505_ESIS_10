@@ -1,2 +1,6 @@
 something
+<<<<<<< HEAD
 something 2
+=======
+new line
+>>>>>>> refs/remotes/origin_New/test_igi
